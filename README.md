@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Luca,
-I'm currently a high school student. I love programming and here you can find some of my project. Hope you like it.
+I'm currently a high school student. I love programming and here you can find some of my projects. Hope you like it.
 <!--
 **LucaPalumbo/LucaPalumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
