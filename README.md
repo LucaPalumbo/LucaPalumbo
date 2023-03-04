@@ -1,6 +1,11 @@
 ### Hi there 👋
-I am Luca,
-I love programming and here you can find some of my projects. Hope you like them.
+
+Welcome to my GitHub profile! I'm a physics student at the University of Pisa, with a passion for all kinds of science and technology. In my free time, I'm an avid CTF player and member of the Fibonhack team, where I sharpen my problem-solving skills and explore new challenges.
+
+On my page, you'll find a collection of repositories that showcase my coding skills and interests. From physics simulations to games development, I'm constantly exploring new technologies and building innovative solutions. 
+
+I'm always open to collaborating with others, so feel free to reach out if you're interested in working together.
+
 <!--
 **LucaPalumbo/LucaPalumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
